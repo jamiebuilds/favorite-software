@@ -52,7 +52,7 @@ brew cask install bartender
 _Alternatives: [Broomstick](http://www.zibity.com/broomstick)_
 
 
-#### [BetterTouchTool](http://blog.boastr.net)
+#### [BetterTouchTool](http://www.boastr.net/)
 
 BetterTouchTool is an awesome tool for customizing your touchpad/trackpad/Magic Mouse/Magic Trackpad devices, allowing complex gestures, custom keyboard shortcuts, window snapping and much, much more.
 
