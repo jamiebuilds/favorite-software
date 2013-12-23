@@ -45,6 +45,18 @@ brew cask install alfred
 
 _Alternatives: [Found](https://www.foundapp.com/), [Quicksilver](http://qsapp.com/), [LaunchBar](http://www.obdev.at/products/launchbar/), [Launchy](http://www.launchy.net/)_
 
+#### [Airmail](http://airmailapp.com/) 
+
+Lightning fast mail client for OS X
+
+```
+brew cask install airmail-beta
+```
+
+**Pricing: Free beta channel, $2 (single license)**
+
+_Alternatives: [Sparrow](http://sparrowmailapp.com/), [Postbox](http://www.postbox-inc.com/), [Thunderbird](http://www.mozilla.org/en-US/thunderbird/)_
+
 #### [Bartender](http://www.macbartender.com/)
 
 Bartender lets you organize your menu bar apps, by hiding them, rearranging them, or moving them to Bartender's Bar.You can display the full menu bar, set options to have menu bar items show in the menu bar when they have updated, or have them always visible in Bartender's Bar.
@@ -262,18 +274,6 @@ brew cask install sizeup
 **Pricing: Free Trial (unlimited w/ prompts), $13 (single license)**
 
 _Alternatives: [Divvy](http://mizage.com/divvy/), [Cinch](http://www.irradiatedsoftware.com/cinch/)_
-
-#### [Sparrow](http://sparrowmailapp.com/) 
-
-Lightweight and fast, Sparrow is the simplest way to get to inbox zero. Try it and never look back.
-
-```
-brew cask install sparrow
-```
-
-**Pricing: Free Trial (unlimited w/ ads), $10 (single license)**
-
-_Alternatives: [Postbox](http://www.postbox-inc.com/), [Thunderbird](http://www.mozilla.org/en-US/thunderbird/)_
 
 #### [Sublime Text](http://www.sublimetext.com/)
 
