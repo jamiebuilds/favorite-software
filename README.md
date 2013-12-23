@@ -111,9 +111,15 @@ Process Less, Sass, Stylus, Jade, Haml, Slim, CoffeeScript, Javascript and Compa
 brew cask install codekit
 ```
 
-**Pricing: Free Trail (10 days), $28 (single license)**
+**Pricing: Free Trial (10 days), $28 (single license)**
 
 _Alternatives: [Prepros](http://alphapixels.com/prepros/), [Livereload](http://livereload.com/), [Crunch](http://crunchapp.net/)_
+
+#### [CodeRunner](http://krillapps.com/coderunner/)
+
+Edit and run code in any programming language with just a single click.
+
+**Pricing: $10 (single license)**
 
 #### [Daisy Disk](http://daisydiskapp.com/)
 
