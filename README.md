@@ -9,7 +9,6 @@ This is a slightly-opinionated personal favorite list of software for Mac OS X. 
 
 ---
 
-
 #### [1 Password](https://agilebits.com/onepassword/mac)
 
 1Password gives you the security you need in today's online world without slowing you down. 1Password makes you more productive while simultaneously increasing your security with strong, unique passwords for all your accounts.
@@ -17,6 +16,8 @@ This is a slightly-opinionated personal favorite list of software for Mac OS X. 
 ```
 brew cask install onepassword
 ```
+
+**Pricing: $35 (single license)**
 
 _Alternatives: [LastPass](https://lastpass.com/), [mSecure](https://msevensoftware.com/msecure_mac)_
 
@@ -28,6 +29,8 @@ Adium is a free and open source instant messaging application for Mac OS X, writ
 brew cask install adium
 ```
 
+**Pricing: Free (open source)**
+
 _Alternatives: [Pidgin](http://pidgin.im/), [Trillian](https://www.trillian.im/)_
 
 #### [Alfred](http://www.alfredapp.com/)
@@ -37,6 +40,8 @@ Alfred is an award-winning productivity application for Mac OS X. Alfred saves y
 ```
 brew cask install alfred
 ```
+
+**Pricing: Free Basic Version (Upgrade £17)**
 
 _Alternatives: [Found](https://www.foundapp.com/), [Quicksilver](http://qsapp.com/), [LaunchBar](http://www.obdev.at/products/launchbar/), [Launchy](http://www.launchy.net/)_
 
@@ -48,9 +53,9 @@ Bartender lets you organize your menu bar apps, by hiding them, rearranging them
 brew cask install bartender
 ```
 
+**Pricing: Free Trial (4 Weeks), $15 (single license)**
 
 _Alternatives: [Broomstick](http://www.zibity.com/broomstick)_
-
 
 #### [BetterTouchTool](http://www.boastr.net/)
 
@@ -60,6 +65,8 @@ BetterTouchTool is an awesome tool for customizing your touchpad/trackpad/Magic 
 brew cask install bettertouchtool
 ```
 
+**Pricing: Free (proprietary)**
+
 #### [Caffeine](http://lightheadsw.com/caffeine/)
 
 Caffeine is a tiny program that puts an icon in the right side of your menu bar. Click it to prevent your Mac from automatically going to sleep, dimming the screen or starting screen savers. Click it again to go back. Right-click (or ⌘-click) the icon to show the menu.
@@ -67,6 +74,8 @@ Caffeine is a tiny program that puts an icon in the right side of your menu bar.
 ```
 brew cask install caffeine
 ```
+
+**Pricing: Free (proprietary)**
 
 _Alternatives: [Should I Sleep](http://www.mrmilk.com.br/should-i-sleep/)_
 
@@ -78,6 +87,8 @@ While working on your Mac you create and download a lot of files, but rarely del
 brew cask install daisydisk
 ```
 
+**Pricing: Free test drive mode, $10 (single license)**
+
 _Alternatives: [GrandPerspective](http://grandperspectiv.sourceforge.net/), [WhatSize](http://www.whatsizemac.com/)_
 
 #### [Evernote](https://evernote.com/)
@@ -87,6 +98,8 @@ Evernote makes it easy to remember things big and small from your everyday life 
 ```
 brew cask install evernote
 ```
+
+**Pricing: Free, $5/mo or $45/yr (premium features)**
 
 _Alternatives: [Tomboy](https://wiki.gnome.org/Apps/Tomboy), [Springpad](https://springpad.com/)_
 
@@ -98,6 +111,8 @@ Fantastical's natural language event/reminder creation, beautiful calendar, and 
 brew cask install fantastical
 ```
 
+**Pricing: Free Trial (14 days), $10 (single license)**
+
 _Alternatives: [Qbix Calendar](http://qbix.com/calendar)_
 
 #### [F.lux](http://justgetflux.com/)
@@ -107,6 +122,8 @@ f.lux makes your computer screen look like the room you're in, all the time. Whe
 ```
 brew cask install f-lux
 ```
+
+**Pricing: Free (proprietary)**
 
 _Alternatives: [Nocturne](https://code.google.com/p/blacktree-nocturne/)_
 
@@ -119,6 +136,8 @@ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 brew doctor
 ```
 
+**Pricing: Free (open source)**
+
 _Alternatives: [MacPorts](http://www.macports.org/)_
 
 #### [Homebrew Cask](https://github.com/phinze/homebrew-cask)
@@ -130,6 +149,8 @@ brew tap phinze/homebrew-cask
 brew install brew-cask
 ```
 
+**Pricing: Free (open source)**
+
 #### [HyperDock](http://hyperdock.bahoom.com/)
 
 HyperDock adds long awaited features to your Dock: Select individual application windows just by moving the mouse on a dock item, use mouse clicks to quickly open new windows and many more.
@@ -137,6 +158,8 @@ HyperDock adds long awaited features to your Dock: Select individual application
 ```
 brew cask install hyperdock
 ```
+
+**Pricing: Free Trial (15 days), $10 (single license)**
 
 _Alternatives: [DockView](http://kapeli.com/dockview)_
 
@@ -148,6 +171,8 @@ ImageOptim optimizes images — so they take up less disk space and load faster 
 brew cask install imageoptim
 ```
 
+**Pricing: Free (open source)**
+
 _Alternatives: [ImageMagick](http://www.imagemagick.org/)_
 
 #### [iStat Menus](http://bjango.com/mac/istatmenus/)
@@ -158,6 +183,8 @@ iStat Menus is an advanced Mac system monitor, covering an enormous range of sta
 brew cask install istat-menus
 ```
 
+**Pricing: Free Trial (14 days), $16 (single license)**
+
 _Alternatives: [atMonitor](http://www.atpurpose.com/atMonitor/), [MenuMeters](http://www.ragingmenace.com/software/menumeters/)_
 
 #### [iTerm 2](http://www.iterm2.com/)
@@ -167,6 +194,8 @@ iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Mac
 ```
 brew cask install iterm2
 ```
+
+**Pricing: Free (open source)**
 
 _Alternatives: [MacTerm](http://www.macterm.net/)_
 
@@ -182,6 +211,8 @@ brew cask install macvim
 
 .files, including ~/.osx — sensible hacker defaults for OS X
 
+**Pricing: Free (open source)**
+
 _Alternatives: [Zach Holman's dotfiles](https://github.com/holman/dotfiles), [Yan Pritzker's dotfiles](https://github.com/skwp/dotfiles)_
 
 #### [Mou](http://mouapp.com/)
@@ -191,6 +222,8 @@ When current available Markdown editors are almost all for general writers, Mou 
 ```
 brew cask install mou
 ```
+
+**Pricing: Free (proprietary)**
 
 _Alternatives: [Byword](http://bywordapp.com/), [Marked](http://marked2app.com/)_
 
@@ -202,6 +235,8 @@ A community-driven framework for managing your zsh configuration. Includes 120+ 
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 ```
 
+**Pricing: Free (open source)**
+
 _Alternatives: [Prezto](https://github.com/sorin-ionescu/prezto), [Bash it](https://github.com/revans/bash-it)_
 
 #### [Sequel Pro](http://www.sequelpro.com/)
@@ -211,6 +246,8 @@ Sequel Pro is a fast, easy-to-use Mac database management application for workin
 ```
 brew cask install sequel-pro 
 ```
+
+**Pricing: Free (open source)**
 
 _Alternatives: [MySQL Workbench](http://www.mysql.com/products/workbench/), [Navicat](http://www.navicat.com/)_
 
@@ -222,6 +259,8 @@ SizeUp allows you to quickly resize and position your windows with keyboard shor
 brew cask install sizeup
 ```
 
+**Pricing: Free Trial (unlimited w/ prompts), $13 (single license)**
+
 _Alternatives: [Divvy](http://mizage.com/divvy/), [Cinch](http://www.irradiatedsoftware.com/cinch/)_
 
 #### [Sparrow](http://sparrowmailapp.com/) 
@@ -231,6 +270,8 @@ Lightweight and fast, Sparrow is the simplest way to get to inbox zero. Try it a
 ```
 brew cask install sparrow
 ```
+
+**Pricing: Free Trial (unlimited w/ ads), $10 (single license)**
 
 _Alternatives: [Postbox](http://www.postbox-inc.com/), [Thunderbird](http://www.mozilla.org/en-US/thunderbird/)_
 
@@ -242,6 +283,8 @@ A sophisticated text editor for code, markup and prose. You'll love the slick us
 brew cask install sublime-text
 ```
 
+**Pricing: Free Trial (unlimited w/ prompts), $70 (single license)**
+
 _Alternatives: [Brackets](http://brackets.io/), [TextMate](http://macromates.com/), [Coda](http://www.panic.com/coda/), [TextWrangler](http://www.barebones.com/products/textwrangler/), [Espresso](http://macrabbit.com/espresso/)_
 
 #### [TotalFinder](http://totalfinder.binaryage.com/) 
@@ -251,6 +294,8 @@ With TotalFinder you don't have to decide between the Finder and some replacemen
 ```
 brew cask install totalfinder
 ```
+
+**Pricing: Free Trial (14 days), $18 (single license)**
 
 _Alternatives: [XtraFinder](http://www.trankynam.com/xtrafinder/)_
 
@@ -262,6 +307,8 @@ The Unarchiver is a small and easy to use program that can unarchive many differ
 brew cask install the-unarchiver
 ```
 
+**Pricing: Free (open source)**
+
 _Alternatives: [BetterZip](http://macitbetter.com/), [WinZip](http://www.winzip.com/mac/en/winzip.html)_
 
 #### [VirtualBox](https://www.virtualbox.org/)
@@ -271,6 +318,8 @@ VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterp
 ```
 brew cask install virtualbox
 ```
+
+**Pricing: Free (open source)**
 
 _Alternatives: [Parallels Desktop](http://www.parallels.com/products/desktop/), [VMware Fusion](http://www.vmware.com/products/fusion/)_
 
@@ -282,11 +331,15 @@ VLC is a free and open source cross-platform multimedia player and framework tha
 brew cask install vlc
 ```
 
+**Pricing: Free (open source)**
+
 _Alternatives: [MPlayerX](http://mplayerx.org/)_
 
 #### [Xcode](https://developer.apple.com/xcode/) (& Command Line Tools)
 
 Xcode is Apple's powerful integrated development environment for creating apps for Mac, iPhone, and iPad. Xcode includes the Instruments analysis tool, iOS Simulator, and the latest SDKs for iOS and OS X.
+
+**Pricing: Free (proprietary)**
 
 ---
 
