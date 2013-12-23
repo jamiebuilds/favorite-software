@@ -91,6 +91,20 @@ brew cask install caffeine
 
 _Alternatives: [Should I Sleep](http://www.mrmilk.com.br/should-i-sleep/)_
 
+#### [CodeKit](http://incident57.com/codekit/)
+
+Process Less, Sass, Stylus, Jade, Haml, Slim, CoffeeScript, Javascript and Compass files automatically each time you save. Easily set options for each language.
+
+> Note: I would highly recommend using existing command-line tools (eg. [grunt](http://gruntjs.com/)) over companion apps like CodeKit. However, if that's not your idea of fun, then enjoy CodeKit.
+
+```
+brew cask install codekit
+```
+
+**Pricing: Free Trail (10 days), $28 (single license)**
+
+_Alternatives: [Prepros](http://alphapixels.com/prepros/), [Livereload](http://livereload.com/), [Crunch](http://crunchapp.net/)_
+
 #### [Daisy Disk](http://daisydiskapp.com/)
 
 While working on your Mac you create and download a lot of files, but rarely delete anything. As time goes by you have less and less room for your data. Install a larger disk if you have a few hundred dollars to spare or pay monthly fee for cloud storage. Or get DaisyDisk at a fraction of the price and get room for your data by removing old junk you unlikely even thought you had.
