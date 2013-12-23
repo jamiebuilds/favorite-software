@@ -285,17 +285,17 @@ brew cask install sequel-pro
 
 _Alternatives: [MySQL Workbench](http://www.mysql.com/products/workbench/), [Navicat](http://www.navicat.com/)_
 
-#### [SizeUp](http://www.irradiatedsoftware.com/sizeup/)
+#### [Spectacle](http://spectacleapp.com/)
 
-SizeUp allows you to quickly resize and position your windows with keyboard shortcuts or a handy menu bar icon.
+Move and resize windows with ease. Window control with simple, customizable keyboard shortcuts.
 
 ```
-brew cask install sizeup
+brew cask install spectacle
 ```
 
-**Pricing: Free Trial (unlimited w/ prompts), $13 (single license)**
+**Pricing: Free (open source)**
 
-_Alternatives: [Divvy](http://mizage.com/divvy/), [Cinch](http://www.irradiatedsoftware.com/cinch/)_
+_Alternatives: [SizeUp](http://www.irradiatedsoftware.com/sizeup/), [Divvy](http://mizage.com/divvy/), [Cinch](http://www.irradiatedsoftware.com/cinch/), [Slate](https://github.com/jigish/slate)_
 
 #### [Sublime Text](http://www.sublimetext.com/)
 
