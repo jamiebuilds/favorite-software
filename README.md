@@ -5,31 +5,7 @@ This is a slightly-opinionated personal favorite list of software for Mac OS X. 
 
 ---
 
-> For installing everything on this list, I highly recommend the following two tools:
-
----
-
-#### [Homebrew](https://github.com/Homebrew/homebrew)
-
-The missing package manager for OS X.
-
-```
-ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
-brew doctor
-```
-
-#### [Homebrew Cask](https://github.com/phinze/homebrew-cask)
-
-A friendly homebrew-style CLI workflow for the administration of Mac applications distributed as binaries.
-
-```
-brew tap phinze/homebrew-cask
-brew install brew-cask
-```
-
----
-
-> If you install those two tools you can easily install most of the software on this list in one-liners which I have included.
+> I've included the short snippets to install most of these using Homebrew. The installation instructions for Homebrew and Homebrew Cask are also included. If you would prefer not to use either, you can click on the titles for their respective project pages.
 
 ---
 
@@ -109,6 +85,24 @@ brew cask install f-lux
 #### [Found](https://www.foundapp.com/) 
 
 Found provides a lightning-fast, intuitive search experience that finds files across your Mac and personal cloud services, including Dropbox, Evernote, SkyDrive, Google Drive/Docs, and Gmail (attachments).
+
+#### [Homebrew](https://github.com/Homebrew/homebrew)
+
+The missing package manager for OS X.
+
+```
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+brew doctor
+```
+
+#### [Homebrew Cask](https://github.com/phinze/homebrew-cask)
+
+A friendly homebrew-style CLI workflow for the administration of Mac applications distributed as binaries.
+
+```
+brew tap phinze/homebrew-cask
+brew install brew-cask
+```
 
 #### [HyperDock](http://hyperdock.bahoom.com/)
 
