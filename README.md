@@ -291,6 +291,14 @@ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | 
 
 _Alternatives: [Prezto](https://github.com/sorin-ionescu/prezto), [Bash it](https://github.com/revans/bash-it)_
 
+#### [Pixelmator](http://www.pixelmator.com/)
+
+Pixelmator 3.0 FX brings even more powerful ways to enhance your images. With the new Layer Styles, a complete set of Liquify Tools, and support for the new OS X Mavericks features — creating advanced and polished compositions — is now so much simpler, faster, and more enjoyable. And the new state-of-the-art image editing engine gives you the speed you need to keep the creative process smoothly flowing.
+
+**Pricing: Free Trial (30 days), $30 (single license)**
+
+_Alternatives: [Photoshop](http://www.photoshop.com/products/photoshop), [Sketch](http://www.bohemiancoding.com/sketch/), [Gimp](http://www.gimp.org/)_
+
 #### [Sequel Pro](http://www.sequelpro.com/)
 
 Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL databases.
