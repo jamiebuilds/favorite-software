@@ -18,6 +18,8 @@ This is a slightly-opinionated personal favorite list of software for Mac OS X. 
 brew cask install onepassword
 ```
 
+_Alternatives: [LastPass](https://lastpass.com/), [mSecure](https://msevensoftware.com/msecure_mac)_
+
 #### [Adium](https://adium.im/)
 
 Adium is a free and open source instant messaging application for Mac OS X, written using Mac OS X's Cocoa API, released under the GNU GPL and developed by the Adium team. Based on the libpurple protocol library, Adium can connect you to any number of messaging accounts on any combination of supported messaging services (see further down for the list) and then chat with other people using those services.
@@ -25,6 +27,8 @@ Adium is a free and open source instant messaging application for Mac OS X, writ
 ```
 brew cask install adium
 ```
+
+_Alternatives: [Pidgin](http://pidgin.im/), [Trillian](https://www.trillian.im/)_
 
 #### [Alfred](http://www.alfredapp.com/)
 
@@ -34,6 +38,8 @@ Alfred is an award-winning productivity application for Mac OS X. Alfred saves y
 brew cask install alfred
 ```
 
+_Alternatives: [Found](https://www.foundapp.com/), [Quicksilver](http://qsapp.com/), [LaunchBar](http://www.obdev.at/products/launchbar/), [Launchy](http://www.launchy.net/)_
+
 #### [Bartender](http://www.macbartender.com/)
 
 Bartender lets you organize your menu bar apps, by hiding them, rearranging them, or moving them to Bartender's Bar.You can display the full menu bar, set options to have menu bar items show in the menu bar when they have updated, or have them always visible in Bartender's Bar.
@@ -41,6 +47,8 @@ Bartender lets you organize your menu bar apps, by hiding them, rearranging them
 ```
 brew cask install bartender
 ```
+
+_Alternatives: [Broomstick](http://www.zibity.com/broomstick)_
 
 #### [Caffeine](http://lightheadsw.com/caffeine/)
 
@@ -50,6 +58,8 @@ Caffeine is a tiny program that puts an icon in the right side of your menu bar.
 brew cask install caffeine
 ```
 
+_Alternatives: [Should I Sleep](http://www.mrmilk.com.br/should-i-sleep/)_
+
 #### [Daisy Disk](http://daisydiskapp.com/)
 
 While working on your Mac you create and download a lot of files, but rarely delete anything. As time goes by you have less and less room for your data. Install a larger disk if you have a few hundred dollars to spare or pay monthly fee for cloud storage. Or get DaisyDisk at a fraction of the price and get room for your data by removing old junk you unlikely even thought you had.
@@ -57,6 +67,8 @@ While working on your Mac you create and download a lot of files, but rarely del
 ```
 brew cask install daisydisk
 ```
+
+_Alternatives: [GrandPerspective](http://grandperspectiv.sourceforge.net/), [WhatSize](http://www.whatsizemac.com/)_
 
 #### [Evernote](https://evernote.com/)
 
@@ -66,6 +78,8 @@ Evernote makes it easy to remember things big and small from your everyday life 
 brew cask install evernote
 ```
 
+_Alternatives: [Tomboy](https://wiki.gnome.org/Apps/Tomboy), [Springpad](https://springpad.com/)_
+
 #### [Fantastical](http://flexibits.com/fantastical)
 
 Fantastical's natural language event/reminder creation, beautiful calendar, and gorgeous list make it the best calendar you'll ever use. Stay on top of your schedule with features like native CalDAV support, automatic alarms for new events, OS X and iOS reminder support, and instant search.
@@ -73,6 +87,8 @@ Fantastical's natural language event/reminder creation, beautiful calendar, and 
 ```
 brew cask install fantastical
 ```
+
+_Alternatives: [Qbix Calendar](http://qbix.com/calendar)_
 
 #### [F.lux](http://justgetflux.com/)
 
@@ -82,9 +98,7 @@ f.lux makes your computer screen look like the room you're in, all the time. Whe
 brew cask install f-lux
 ```
 
-#### [Found](https://www.foundapp.com/) 
-
-Found provides a lightning-fast, intuitive search experience that finds files across your Mac and personal cloud services, including Dropbox, Evernote, SkyDrive, Google Drive/Docs, and Gmail (attachments).
+_Alternatives: [Nocturne](https://code.google.com/p/blacktree-nocturne/)_
 
 #### [Homebrew](https://github.com/Homebrew/homebrew)
 
@@ -94,6 +108,8 @@ The missing package manager for OS X.
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 brew doctor
 ```
+
+_Alternatives: [MacPorts](http://www.macports.org/)_
 
 #### [Homebrew Cask](https://github.com/phinze/homebrew-cask)
 
@@ -112,6 +128,8 @@ HyperDock adds long awaited features to your Dock: Select individual application
 brew cask install hyperdock
 ```
 
+_Alternatives: [DockView](http://kapeli.com/dockview)_
+
 #### [ImageOptim](http://imageoptim.com/)
 
 ImageOptim optimizes images — so they take up less disk space and load faster — by finding best compression parameters and by removing unnecessary comments and color profiles. It handles PNG, JPEG and GIF animations.
@@ -119,6 +137,8 @@ ImageOptim optimizes images — so they take up less disk space and load faster 
 ```
 brew cask install imageoptim
 ```
+
+_Alternatives: [ImageMagick](http://www.imagemagick.org/)_
 
 #### [iStat Menus](http://bjango.com/mac/istatmenus/)
 
@@ -128,6 +148,8 @@ iStat Menus is an advanced Mac system monitor, covering an enormous range of sta
 brew cask install istat-menus
 ```
 
+_Alternatives: [atMonitor](http://www.atpurpose.com/atMonitor/), [MenuMeters](http://www.ragingmenace.com/software/menumeters/)_
+
 #### [iTerm 2](http://www.iterm2.com/)
 
 iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with OS 10.5 (Leopard) or newer. Its focus is on performance, internationalization, and supporting innovative features that make your life better.
@@ -135,6 +157,8 @@ iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Mac
 ```
 brew cask install iterm2
 ```
+
+_Alternatives: [MacTerm](http://www.macterm.net/)_
 
 #### [MacVim](https://code.google.com/p/macvim/)
 
@@ -148,6 +172,8 @@ brew cask install macvim
 
 .files, including ~/.osx — sensible hacker defaults for OS X
 
+_Alternatives: [Zach Holman's dotfiles](https://github.com/holman/dotfiles), [Yan Pritzker's dotfiles](https://github.com/skwp/dotfiles)_
+
 #### [Mou](http://mouapp.com/)
 
 When current available Markdown editors are almost all for general writers, Mou is different: It's for web developers. Syntax highlighting, live preview, sync scroll, fullscreen mode, auto save, powerful actions, auto pair, custom themes and CSS, HTML and PDF export, enhanced CJK support.
@@ -155,6 +181,8 @@ When current available Markdown editors are almost all for general writers, Mou 
 ```
 brew cask install mou
 ```
+
+_Alternatives: [Byword](http://bywordapp.com/), [Marked](http://marked2app.com/)_
 
 #### [oh my zsh](https://github.com/robbyrussell/oh-my-zsh)
 
@@ -164,6 +192,8 @@ A community-driven framework for managing your zsh configuration. Includes 120+ 
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 ```
 
+_Alternatives: [Prezto](https://github.com/sorin-ionescu/prezto), [Bash it](https://github.com/revans/bash-it)_
+
 #### [Sequel Pro](http://www.sequelpro.com/)
 
 Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL databases.
@@ -171,6 +201,8 @@ Sequel Pro is a fast, easy-to-use Mac database management application for workin
 ```
 brew cask install sequel-pro 
 ```
+
+_Alternatives: [MySQL Workbench](http://www.mysql.com/products/workbench/), [Navicat](http://www.navicat.com/)_
 
 #### [SizeUp](http://www.irradiatedsoftware.com/sizeup/)
 
@@ -180,6 +212,8 @@ SizeUp allows you to quickly resize and position your windows with keyboard shor
 brew cask install sizeup
 ```
 
+_Alternatives: [Divvy](http://mizage.com/divvy/), [Cinch](http://www.irradiatedsoftware.com/cinch/)_
+
 #### [Sparrow](http://sparrowmailapp.com/) 
 
 Lightweight and fast, Sparrow is the simplest way to get to inbox zero. Try it and never look back.
@@ -187,6 +221,8 @@ Lightweight and fast, Sparrow is the simplest way to get to inbox zero. Try it a
 ```
 brew cask install sparrow
 ```
+
+_Alternatives: [Postbox](http://www.postbox-inc.com/), [Thunderbird](http://www.mozilla.org/en-US/thunderbird/)_
 
 #### [Sublime Text](http://www.sublimetext.com/)
 
@@ -196,6 +232,8 @@ A sophisticated text editor for code, markup and prose. You'll love the slick us
 brew cask install sublime-text
 ```
 
+_Alternatives: [Brackets](http://brackets.io/), [TextMate](http://macromates.com/), [Coda](http://www.panic.com/coda/), [TextWrangler](http://www.barebones.com/products/textwrangler/), [Espresso](http://macrabbit.com/espresso/)_
+
 #### [TotalFinder](http://totalfinder.binaryage.com/) 
 
 With TotalFinder you don't have to decide between the Finder and some replacement application. You get the Finder with all you already know plus some new handy features. You may selectively enable them as you progress with TotalFinder.
@@ -203,6 +241,8 @@ With TotalFinder you don't have to decide between the Finder and some replacemen
 ```
 brew cask install totalfinder
 ```
+
+_Alternatives: [XtraFinder](http://www.trankynam.com/xtrafinder/)_
 
 #### [The Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353)
 
@@ -212,6 +252,8 @@ The Unarchiver is a small and easy to use program that can unarchive many differ
 brew cask install the-unarchiver
 ```
 
+_Alternatives: [BetterZip](http://macitbetter.com/), [WinZip](http://www.winzip.com/mac/en/winzip.html)_
+
 #### [VirtualBox](https://www.virtualbox.org/)
 
 VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License (GPL) version 2.
@@ -220,6 +262,8 @@ VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterp
 brew cask install virtualbox
 ```
 
+_Alternatives: [Parallels Desktop](http://www.parallels.com/products/desktop/), [VMware Fusion](http://www.vmware.com/products/fusion/)_
+
 #### [VLC](http://www.videolan.org/vlc/index.html) 
 
 VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVD, Audio CD, VCD, and various streaming protocols.
@@ -227,6 +271,8 @@ VLC is a free and open source cross-platform multimedia player and framework tha
 ```
 brew cask install vlc
 ```
+
+_Alternatives: [MPlayerX](http://mplayerx.org/)_
 
 #### [Xcode](https://developer.apple.com/xcode/) (& Command Line Tools)
 
