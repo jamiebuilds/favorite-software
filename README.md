@@ -127,6 +127,16 @@ brew cask install daisydisk
 
 _Alternatives: [GrandPerspective](http://grandperspectiv.sourceforge.net/), [WhatSize](http://www.whatsizemac.com/)_
 
+#### [Dash](http://kapeli.com/dash)
+
+Dash is an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 130+ APIs (for a full list, see below). You can even generate your own docsets or request docsets to be included.
+
+```
+brew cask install dash
+```
+
+**Pricing: Free (open source)**
+
 #### [Evernote](https://evernote.com/)
 
 Evernote makes it easy to remember things big and small from your everyday life using your computer, phone, tablet and the web.
