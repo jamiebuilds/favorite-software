@@ -5,7 +5,9 @@ This is a slightly-opinionated personal favorite list of software for Mac OS X. 
 
 ---
 
-> I've included the short snippets to install most of these using Homebrew. The installation instructions for Homebrew and Homebrew Cask are also included. If you would prefer not to use either, you can click on the titles for their respective project pages.
+> **Prerequisites**
+
+> I've included the short snippets to install most of these using [Homebrew](http://brew.sh/). The installation instructions for [Homebrew](https://github.com/thejameskyle/favorite-software/blob/master/README.md#homebrew) and [Homebrew Cask](https://github.com/thejameskyle/favorite-software/blob/master/README.md#homebrew-cask) are also included. If you would prefer not to use either, you can click on the titles for their respective project pages.
 
 ---
 
