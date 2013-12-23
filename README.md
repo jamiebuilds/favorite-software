@@ -1,7 +1,11 @@
 Favorite Mac OS X Software
 ==========================
 
-> For installing all of your software, I highly reccommend the following two tools:
+This is a slightly-opinionated personal favorite list of software for Mac OS X. In the future this may include other resources (not just Mac software), but will always be tailored to developers and power users.
+
+---
+
+> For installing everything on this list, I highly recommend the following two tools:
 
 ---
 
