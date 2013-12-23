@@ -164,6 +164,14 @@ A community-driven framework for managing your zsh configuration. Includes 120+ 
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 ```
 
+#### [Sequel Pro](http://www.sequelpro.com/)
+
+Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL databases.
+
+```
+brew cask install sequel-pro 
+```
+
 #### [SizeUp](http://www.irradiatedsoftware.com/sizeup/)
 
 SizeUp allows you to quickly resize and position your windows with keyboard shortcuts or a handy menu bar icon.
