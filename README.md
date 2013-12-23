@@ -297,6 +297,18 @@ brew cask install sequel-pro
 
 _Alternatives: [MySQL Workbench](http://www.mysql.com/products/workbench/), [Navicat](http://www.navicat.com/)_
 
+#### [SourceTree](http://www.sourcetreeapp.com/)
+
+Say goodbye to the command line – use the full capability of Git and Mercurial in the SourceTree desktop app. Manage all your repositories, hosted or local, through SourceTree's simple interface.
+
+```
+brew cask install sourcetree
+```
+
+**Pricing: Free (proprietary)**
+
+_Alternatives: [Tower](http://www.git-tower.com/), [Sprout](http://www.sproutmacapp.com/sprout/), [Gitbox](http://gitboxapp.com/)_
+
 #### [Spectacle](http://spectacleapp.com/)
 
 Move and resize windows with ease. Window control with simple, customizable keyboard shortcuts.
