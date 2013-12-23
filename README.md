@@ -164,14 +164,6 @@ A community-driven framework for managing your zsh configuration. Includes 120+ 
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 ```
 
-#### [Rdio](http://www.rdio.com/) 
-
-Rdio has millions of songs, from massive hits to rare gems to cult classics, with more added every week. It’s more music than you could listen to in a lifetime. Find what to play next — a song, album, or playlist — by following friends and artists. Or lean back and listen to stations, always free on mobile, for a mix of favorites and soon-to-be-loved songs. Build a collection of your favorites, so they’re always close at hand, and share the music you love with the people who might love it next.
-
-```
-brew cask install rdio
-```
-
 #### [SizeUp](http://www.irradiatedsoftware.com/sizeup/)
 
 SizeUp allows you to quickly resize and position your windows with keyboard shortcuts or a handy menu bar icon.
