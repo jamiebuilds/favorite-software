@@ -231,7 +231,7 @@ brew cask install iterm2
 
 **Pricing: Free (open source)**
 
-_Alternatives: [MacTerm](http://www.macterm.net/)_
+_Alternatives: [TotalTerminal](http://totalterminal.binaryage.com/), [MacTerm](http://www.macterm.net/)_
 
 #### [MacVim](https://code.google.com/p/macvim/)
 
