@@ -79,6 +79,14 @@ brew cask install bettertouchtool
 
 **Pricing: Free (proprietary)**
 
+#### [Browser Dev Channels](http://en.wikipedia.org/wiki/Nightly_build)
+
+- [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html)
+- [Firefox Nightly](http://nightly.mozilla.org/)
+- [Webkit Nightly](http://nightly.webkit.org/)
+
+**Pricing: Free (open source)**
+
 #### [Caffeine](http://lightheadsw.com/caffeine/)
 
 Caffeine is a tiny program that puts an icon in the right side of your menu bar. Click it to prevent your Mac from automatically going to sleep, dimming the screen or starting screen savers. Click it again to go back. Right-click (or ⌘-click) the icon to show the menu.
