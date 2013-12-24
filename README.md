@@ -519,6 +519,14 @@ Run Windows applications on Linux, BSD, Solaris and Mac OS X.
 
 ## Chrome
 
+#### [AdBlock Plus](https://adblockplus.org/en/chrome)
+
+Adblock Plus blocks annoying ads on the web. It can block other things, like tracking, as well. With more than 50 million users, it is the world's most popular browser extension. Adblock Plus is an open source project created by Wladimir Palant in 2006. Eyeo was founded in 2011 by Wladimir Palant and Till Faida to make its development sustainable.
+
+[Download in Chrome Web Store](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)
+
+**Pricing: Free (open source)**
+
 #### [Evernote Web Clipper](http://evernote.com/webclipper/)
 
 From interests to research, save anything you see online—including text, links and images—into your Evernote account with a single click.
