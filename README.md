@@ -424,6 +424,12 @@ GIMP is the GNU Image Manipulation Program. It is a freely distributed piece of 
 
 **Pricing: Free (open source)**
 
+#### [PeaZip](http://peazip.sourceforge.net/peazip-linux.html)
+
+PeaZip is a free Zip files utility, providing an unified, natively portable, cross-platform file and archive manager GUI for many Open Source technologies like 7-Zip, FreeArc, PAQ, UPX.
+
+**Pricing: Free (open source)**
+
 #### [Sublime Text](http://www.sublimetext.com/)
 
 A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
