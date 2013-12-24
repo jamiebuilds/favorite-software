@@ -436,6 +436,12 @@ PeaZip is a free Zip files utility, providing an unified, natively portable, cro
 
 **Pricing: Free (open source)**
 
+#### [Shutter](http://shutter-project.org/)
+
+Shutter is a feature-rich screenshot program. You can take a screenshot of a specific area, window, your whole screen, or even of a website – apply different effects to it, draw on it to highlight points, and then upload to an image hosting site, all within one window.
+
+**Pricing: Free (open source)**
+
 #### [Sublime Text](http://www.sublimetext.com/)
 
 A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
