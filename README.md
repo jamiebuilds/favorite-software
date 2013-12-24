@@ -1,5 +1,5 @@
-Favorite Mac OS X Software
-==========================
+Mac OS X
+========
 
 This is a slightly-opinionated personal favorite list of software for Mac OS X. In the future this may include other resources (not just Mac software), but will always be tailored to developers and power users.
 
@@ -410,6 +410,67 @@ _Alternatives: [MPlayerX](http://mplayerx.org/)_
 Xcode is Apple's powerful integrated development environment for creating apps for Mac, iPhone, and iPad. Xcode includes the Instruments analysis tool, iOS Simulator, and the latest SDKs for iOS and OS X.
 
 **Pricing: Free (proprietary)**
+
+---
+
+Linux
+=====
+
+> Work in Progress
+
+#### [GIMP](http://www.gimp.org/)
+
+GIMP is the GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. It works on many operating systems, in many languages.
+
+**Pricing: Free (open source)**
+
+#### [Sublime Text](http://www.sublimetext.com/)
+
+A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
+
+**Pricing: Free Trial (unlimited w/ prompts), $70 (single license)**
+
+#### [Thunderbird](http://www.mozilla.org/en-US/thunderbird/)
+
+Thunderbird is a free email application that's easy to set up and customize - and it's loaded with great features!
+
+**Pricing: Free (open source)**
+
+#### [Tomboy](https://wiki.gnome.org/Apps/Tomboy/)
+
+Tomboy is a desktop note-taking application for Linux, Unix, Windows, and Mac OS X. Simple and easy to use, but with potential to help you organize the ideas and information you deal with every day.
+
+**Pricing: Free (open source)**
+
+#### [Trillian](https://www.trillian.im/)
+
+Trillian is modern instant messaging for home and work that prioritizes chat interoperability and security.
+
+**Pricing: Free Trial (unlimited w/ ads), $12/yr (single license), or $48 lifetime (single license)**
+
+#### [Vim](http://www.vim.org/)
+
+Vim is a highly configurable text editor built to enable efficient text editing. It is an improved version of the vi editor distributed with most UNIX systems. Vim is distributed free as charityware.
+
+**Pricing: Free (open source)**
+
+#### [Virtualbox](https://www.virtualbox.org/)
+
+VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License (GPL) version 2.
+
+**Pricing: Free (open source)**
+
+#### [VLC](http://www.videolan.org/vlc/)
+
+VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVD, Audio CD, VCD, and various streaming protocols.
+
+**Pricing: Free (open source)**
+
+#### [Wine](http://www.winehq.org/)
+
+Run Windows applications on Linux, BSD, Solaris and Mac OS X.
+
+**Pricing: Free (open source)**
 
 ---
 
