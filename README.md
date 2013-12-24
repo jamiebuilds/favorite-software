@@ -424,6 +424,12 @@ GIMP is the GNU Image Manipulation Program. It is a freely distributed piece of 
 
 **Pricing: Free (open source)**
 
+#### [LibreOffice](http://www.libreoffice.org/default/)
+
+LibreOffice is a comprehensive, professional-quality productivity suite that you can download and install for free, with no fear of copyright infringement. There is a large base of satisfied LibreOffice users worldwide, and it is available in more than 30 languages and for all major operating systems, including Microsoft Windows, Mac OS X and GNU/Linux.
+
+**Pricing: Free (open source)**
+
 #### [PeaZip](http://peazip.sourceforge.net/peazip-linux.html)
 
 PeaZip is a free Zip files utility, providing an unified, natively portable, cross-platform file and archive manager GUI for many Open Source technologies like 7-Zip, FreeArc, PAQ, UPX.
