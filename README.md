@@ -448,6 +448,12 @@ Synapse is a semantic launcher written in Vala that you can use to start applica
 
 **Pricing: Free (open source)**
 
+#### [Terminator](https://launchpad.net/terminator)
+
+Terminator, multiple terminals in one window. The goal of this project is to produce a useful tool for arranging terminals. It is inspired by programs such as gnome-multi-term, quadkonsole, etc. in that the main focus is arranging terminals in grids (tabs is the most common default method, which Terminator also supports).
+
+**Pricing: Free (open source)**
+
 #### [Thunderbird](http://www.mozilla.org/en-US/thunderbird/)
 
 Thunderbird is a free email application that's easy to set up and customize - and it's loaded with great features!
