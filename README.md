@@ -5,7 +5,7 @@ This is a slightly-opinionated personal favorite list of software for Mac OS X &
 
 ---
 
-#### Navigation: [Mac OS X](#mac-os-x) | [Linux](#linux)
+#### Navigation: [Mac OS X](#mac-os-x) | [Linux](#linux) | [Chrome](#chrome)
 
 ---
 
@@ -419,7 +419,7 @@ Xcode is Apple's powerful integrated development environment for creating apps f
 
 ---
 
-#### Navigation: [Mac OS X](#mac-os-x) | [Linux](#linux)
+#### Navigation: [Mac OS X](#mac-os-x) | [Linux](#linux) | [Chrome](#chrome)
 
 ---
 
@@ -513,7 +513,63 @@ Run Windows applications on Linux, BSD, Solaris and Mac OS X.
 
 ---
 
-#### Navigation: [Mac OS X](#mac-os-x) | [Linux](#linux)
+#### Navigation: [Mac OS X](#mac-os-x) | [Linux](#linux) | [Chrome](#chrome)
+
+---
+
+## Chrome
+
+#### [Evernote Web Clipper](http://evernote.com/webclipper/)
+
+From interests to research, save anything you see online—including text, links and images—into your Evernote account with a single click.
+
+[Download in Chrome Web Store](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc)
+
+**Pricing: Free (proprietary)**
+
+#### [Google Drive](https://drive.google.com/)
+
+Create new documents, spreadsheets, and presentations on your own or share and collaborate with others in real time. All your changes are saved automatically in Drive. There isn't even a save button.
+
+[Download in Chrome Web Store](https://chrome.google.com/webstore/detail/google-drive/apdfllckaahabafndbhieahigkjlhalf)
+
+**Pricing: Free (proprietary)**
+
+_Alternatives: [Zoho Docs](https://chrome.google.com/webstore/detail/zoho-docs/nflhfcjfjkohgcgpldeffhlgeooejomn)_
+
+#### [Google Keep](https://drive.google.com/keep/)
+
+With Keep you can quickly jot ideas down when you think of them and even include checklists and photos to keep track of what’s important to you. Your notes are safely stored in Google Drive and synced to all your devices so you can always have them at hand.
+
+[Download in Chrome Web Store](https://chrome.google.com/webstore/detail/google-keep/hmjkmjkepdijhoojdojkdfohbdgmmhki)
+
+**Pricing: Free (proprietary)**
+
+#### [Postman REST Client](http://www.getpostman.com/)
+
+Postman is a powerful HTTP client to help test web services easily and efficiently. Postman let's you craft simple as well as complex HTTP requests quickly. It also saves requests for future use so that you never have to repeat your keystrokes ever again. Postman is designed to save you and your team tons of time.
+
+[Download in Chrome Web Store](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) | [Download Packaged App in Chrome Web Store](https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop)
+
+**Pricing: Free (proprietary)**
+
+#### [Stylebot](http://stylebot.me/)
+
+Change the appearance of websites instantly. Preview and install styles created by other users on stylebot.me. You pick an element and choose any changes you want to make from the editor. You can change the font, color, margins, visibility and a lot more. You can also write CSS manually.
+
+[Download in Chrome Web Store](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
+
+#### [VNC Viewer](http://www.realvnc.com/products/chrome/)
+
+VNC Viewer for Google Chrome displays the desktop of a remote computer within your web browser window, and lets you take control. You can run applications, change settings, access data, and use the keyboard and mouse exactly as you could were you sitting in front of that computer.
+
+[Download in Chrome Web Store](https://chrome.google.com/webstore/detail/vnc-viewer-for-google-chr/iabmpiboiopbgfabjmgeedhcmjenhbla)
+
+**Pricing: Free (proprietary)**
+
+---
+
+#### Navigation: [Mac OS X](#mac-os-x) | [Linux](#linux) | [Chrome](#chrome)
 
 ---
 
