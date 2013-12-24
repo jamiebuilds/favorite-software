@@ -1,9 +1,15 @@
-Mac OS X
-========
+Favorite Software
+=================
 
-This is a slightly-opinionated personal favorite list of software for Mac OS X. In the future this may include other resources (not just Mac software), but will always be tailored to developers and power users.
+This is a slightly-opinionated personal favorite list of software for Mac OS X & Linux. In the future this may include other resources (not just Mac & Linux software), but will always be tailored to developers and power users.
 
 ---
+
+#### Navigation: [Mac OS X](#mac-os-x) | [Linux](#linux)
+
+---
+
+## Mac OS X
 
 > **Prerequisites**
 
@@ -413,8 +419,11 @@ Xcode is Apple's powerful integrated development environment for creating apps f
 
 ---
 
-Linux
-=====
+#### Navigation: [Mac OS X](#mac-os-x) | [Linux](#linux)
+
+---
+
+## Linux
 
 > Work in Progress
 
@@ -501,6 +510,10 @@ VLC is a free and open source cross-platform multimedia player and framework tha
 Run Windows applications on Linux, BSD, Solaris and Mac OS X.
 
 **Pricing: Free (open source)**
+
+---
+
+#### Navigation: [Mac OS X](#mac-os-x) | [Linux](#linux)
 
 ---
 
