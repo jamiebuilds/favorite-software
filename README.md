@@ -1,9 +1,15 @@
-Favorite Mac OS X Software
-==========================
+Favorite Software
+=================
 
-This is a slightly-opinionated personal favorite list of software for Mac OS X. In the future this may include other resources (not just Mac software), but will always be tailored to developers and power users.
+This is a slightly-opinionated personal favorite list of software for Mac OS X & Linux. In the future this may include other resources (not just Mac & Linux software), but will always be tailored to developers and power users.
 
 ---
+
+#### Navigation: [Mac OS X](#mac-os-x) | [Linux](#linux)
+
+---
+
+## Mac OS X
 
 > **Prerequisites**
 
@@ -410,6 +416,104 @@ _Alternatives: [MPlayerX](http://mplayerx.org/)_
 Xcode is Apple's powerful integrated development environment for creating apps for Mac, iPhone, and iPad. Xcode includes the Instruments analysis tool, iOS Simulator, and the latest SDKs for iOS and OS X.
 
 **Pricing: Free (proprietary)**
+
+---
+
+#### Navigation: [Mac OS X](#mac-os-x) | [Linux](#linux)
+
+---
+
+## Linux
+
+> Work in Progress
+
+#### [GIMP](http://www.gimp.org/)
+
+GIMP is the GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. It works on many operating systems, in many languages.
+
+**Pricing: Free (open source)**
+
+#### [LibreOffice](http://www.libreoffice.org/default/)
+
+LibreOffice is a comprehensive, professional-quality productivity suite that you can download and install for free, with no fear of copyright infringement. There is a large base of satisfied LibreOffice users worldwide, and it is available in more than 30 languages and for all major operating systems, including Microsoft Windows, Mac OS X and GNU/Linux.
+
+**Pricing: Free (open source)**
+
+#### [PeaZip](http://peazip.sourceforge.net/peazip-linux.html)
+
+PeaZip is a free Zip files utility, providing an unified, natively portable, cross-platform file and archive manager GUI for many Open Source technologies like 7-Zip, FreeArc, PAQ, UPX.
+
+**Pricing: Free (open source)**
+
+#### [Shutter](http://shutter-project.org/)
+
+Shutter is a feature-rich screenshot program. You can take a screenshot of a specific area, window, your whole screen, or even of a website – apply different effects to it, draw on it to highlight points, and then upload to an image hosting site, all within one window.
+
+**Pricing: Free (open source)**
+
+#### [Sublime Text](http://www.sublimetext.com/)
+
+A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
+
+**Pricing: Free Trial (unlimited w/ prompts), $70 (single license)**
+
+#### [Synapse](https://launchpad.net/synapse-project)
+
+Synapse is a semantic launcher written in Vala that you can use to start applications as well as find and access relevant documents and files by making use of the Zeitgeist engine.
+
+**Pricing: Free (open source)**
+
+#### [Terminator](https://launchpad.net/terminator)
+
+Terminator, multiple terminals in one window. The goal of this project is to produce a useful tool for arranging terminals. It is inspired by programs such as gnome-multi-term, quadkonsole, etc. in that the main focus is arranging terminals in grids (tabs is the most common default method, which Terminator also supports).
+
+**Pricing: Free (open source)**
+
+#### [Thunderbird](http://www.mozilla.org/en-US/thunderbird/)
+
+Thunderbird is a free email application that's easy to set up and customize - and it's loaded with great features!
+
+**Pricing: Free (open source)**
+
+#### [Tomboy](https://wiki.gnome.org/Apps/Tomboy/)
+
+Tomboy is a desktop note-taking application for Linux, Unix, Windows, and Mac OS X. Simple and easy to use, but with potential to help you organize the ideas and information you deal with every day.
+
+**Pricing: Free (open source)**
+
+#### [Trillian](https://www.trillian.im/)
+
+Trillian is modern instant messaging for home and work that prioritizes chat interoperability and security.
+
+**Pricing: Free Trial (unlimited w/ ads), $12/yr (single license), or $48 lifetime (single license)**
+
+#### [Vim](http://www.vim.org/)
+
+Vim is a highly configurable text editor built to enable efficient text editing. It is an improved version of the vi editor distributed with most UNIX systems. Vim is distributed free as charityware.
+
+**Pricing: Free (open source)**
+
+#### [Virtualbox](https://www.virtualbox.org/)
+
+VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License (GPL) version 2.
+
+**Pricing: Free (open source)**
+
+#### [VLC](http://www.videolan.org/vlc/)
+
+VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVD, Audio CD, VCD, and various streaming protocols.
+
+**Pricing: Free (open source)**
+
+#### [Wine](http://www.winehq.org/)
+
+Run Windows applications on Linux, BSD, Solaris and Mac OS X.
+
+**Pricing: Free (open source)**
+
+---
+
+#### Navigation: [Mac OS X](#mac-os-x) | [Linux](#linux)
 
 ---
 
