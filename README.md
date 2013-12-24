@@ -430,6 +430,12 @@ A sophisticated text editor for code, markup and prose. You'll love the slick us
 
 **Pricing: Free Trial (unlimited w/ prompts), $70 (single license)**
 
+#### [Synapse](https://launchpad.net/synapse-project)
+
+Synapse is a semantic launcher written in Vala that you can use to start applications as well as find and access relevant documents and files by making use of the Zeitgeist engine.
+
+**Pricing: Free (open source)**
+
 #### [Thunderbird](http://www.mozilla.org/en-US/thunderbird/)
 
 Thunderbird is a free email application that's easy to set up and customize - and it's loaded with great features!
