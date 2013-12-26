@@ -147,7 +147,7 @@ Dash is an API Documentation Browser and Code Snippet Manager. Dash stores snipp
 brew cask install dash
 ```
 
-**Pricing: Free (open source)**
+**Pricing: Free test drive mode, $20 (single license)**
 
 #### [Evernote](https://evernote.com/)
 
