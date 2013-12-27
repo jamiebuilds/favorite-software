@@ -527,6 +527,14 @@ Adblock Plus blocks annoying ads on the web. It can block other things, like tra
 
 **Pricing: Free (open source)**
 
+#### [Chromecast](http://www.google.com/chromecast/)
+
+With Chromecast, you can easily enjoy your favorite online entertainment on your HDTV—movies, TV shows, music, and more from Netflix, YouTube, Hulu Plus, Google Play Movies and Music, and Chrome. No more huddling around small screens and tiny speakers. Chromecast automatically updates to work with a growing number of apps.
+
+[Download in Chrome Web Store](https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd) | [Purchase Device](http://www.google.com/intl/en/chrome/devices/chromecast/)
+
+**Pricing: $35 Hardware, Free Software**
+
 #### [Evernote Web Clipper](http://evernote.com/webclipper/)
 
 From interests to research, save anything you see online—including text, links and images—into your Evernote account with a single click.
