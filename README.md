@@ -305,6 +305,16 @@ Pixelmator 3.0 FX brings even more powerful ways to enhance your images. With th
 
 _Alternatives: [Photoshop](http://www.photoshop.com/products/photoshop), [Sketch](http://www.bohemiancoding.com/sketch/), [Gimp](http://www.gimp.org/)_
 
+#### [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
+
+List of useful Quick Look plugins for developers.
+
+```
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql webp-quicklook suspicious-package && qlmanage -r
+```
+
+**Pricing: Free (open source)**
+
 #### [Sequel Pro](http://www.sequelpro.com/)
 
 Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL databases.
