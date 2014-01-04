@@ -555,6 +555,8 @@ From interests to research, save anything you see online—including text, links
 
 #### [Github Gmail](https://github.com/muan/github-gmail)
 
+Open your GitHub notifications using `shift + g`, or with a "Visit Thread on Github" button in mail view.
+
 [Download in Chrome Web Store](https://chrome.google.com/webstore/detail/github-notification-helpe/gmhijkhbpihfmkmhmcfebmlkaekgmaje)
 
 **Pricing: Free (open source)**
