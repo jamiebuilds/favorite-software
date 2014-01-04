@@ -553,6 +553,12 @@ From interests to research, save anything you see online—including text, links
 
 **Pricing: Free (proprietary)**
 
+#### [Github Gmail](https://github.com/muan/github-gmail)
+
+[Download in Chrome Web Store](https://chrome.google.com/webstore/detail/github-notification-helpe/gmhijkhbpihfmkmhmcfebmlkaekgmaje)
+
+**Pricing: Free (open source)**
+
 #### [Google Drive](https://drive.google.com/)
 
 Create new documents, spreadsheets, and presentations on your own or share and collaborate with others in real time. All your changes are saved automatically in Drive. There isn't even a save button.
