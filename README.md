@@ -1,7 +1,7 @@
 Favorite Software
 =================
 
-This is a slightly-opinionated personal favorite list of software for Mac OS X & Linux. In the future this may include other resources (not just Mac & Linux software), but will always be tailored to developers and power users.
+This is a slightly-opinionated personal favorite list of software. In the future this may include other resources, but will always be tailored to developers and power users.
 
 ---
 
