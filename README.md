@@ -363,18 +363,6 @@ brew cask install sublime-text
 
 _Alternatives: [Brackets](http://brackets.io/), [TextMate](http://macromates.com/), [Coda](http://www.panic.com/coda/), [TextWrangler](http://www.barebones.com/products/textwrangler/), [Espresso](http://macrabbit.com/espresso/)_
 
-#### [TotalFinder](http://totalfinder.binaryage.com/) 
-
-With TotalFinder you don't have to decide between the Finder and some replacement application. You get the Finder with all you already know plus some new handy features. You may selectively enable them as you progress with TotalFinder.
-
-```
-brew cask install totalfinder
-```
-
-**Pricing: Free Trial (14 days), $18 (single license)**
-
-_Alternatives: [XtraFinder](http://www.trankynam.com/xtrafinder/)_
-
 #### [The Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353)
 
 The Unarchiver is a small and easy to use program that can unarchive many different kinds of archive files. It will open common formats such as Zip, RAR, 7-zip, Tar, Gzip and Bzip2. It will also open many older formats, such as StuffIt, DiskDoubler, LZH, ARJ and ARC. It will even open other kinds of files, like ISO and BIN disc images, some Windows .EXE installers. The list is actually much longer - see the program homepage for the full list.
