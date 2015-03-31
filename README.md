@@ -310,7 +310,7 @@ _Alternatives: [Photoshop](http://www.photoshop.com/products/photoshop), [Sketch
 List of useful Quick Look plugins for developers.
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql webp-quicklook suspicious-package && qlmanage -r
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql webpquicklook suspicious-package && qlmanage -r
 ```
 
 **Pricing: Free (open source)**
