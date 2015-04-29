@@ -22,7 +22,7 @@ This is a slightly-opinionated personal favorite list of software. In the future
 1Password gives you the security you need in today's online world without slowing you down. 1Password makes you more productive while simultaneously increasing your security with strong, unique passwords for all your accounts.
 
 ```
-brew cask install onepassword
+brew cask install 1password
 ```
 
 **Pricing: $35 (single license)**
