@@ -36,7 +36,7 @@ brew cask install dash
 > f.lux makes your computer screen look like the room you're in, all the time. When the sun sets, it makes your computer look like your indoor lights. In the morning, it makes things look like sunlight again.
 
 ```
-brew cask install f-lux
+brew cask install flux
 ```
 
 **Pricing: Free (proprietary)**
